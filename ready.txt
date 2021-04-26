@@ -1,0 +1,8 @@
+    "Roliz",
+    "Yenilendi!",
+    "Yeni Özellikler!",
+    "Made By FunsT",
+    "!medya | 🎉",
+    "Otorol Geldi!",
+    "Sayaç Eklendi!",
+    "Reklam Engel Geliştirildi!"
